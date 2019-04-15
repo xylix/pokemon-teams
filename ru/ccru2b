@@ -28,14 +28,64 @@ IVs: 0 Spe
 - Volt Switch  
 - Rapid Spin  
 
-Mandibuzz @ Leftovers  
-Ability: Overcoat  
-EVs: 248 HP / 76 SpD / 184 Spe  
-Careful Nature  
+Raikou @ Fightinium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Rash Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Calm Mind  
+- Hidden Power [Ice]  
+- Aura Sphere  
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Dragon Claw  
 - U-turn  
-- Toxic  
-- Roost  
-- Knock Off  
+
+Forretress @ Leftovers  
+Ability: Overcoat  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Toxic Spikes  
+- Volt Switch  
+- Rapid Spin  
+
+Yanmega @ Choice Specs  
+Ability: Tinted Lens  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Bug Buzz  
+- Air Slash  
+- Defog  
+- U-turn  
+
+Marowak-Alola @ Thick Club  
+Ability: Rock Head  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Flare Blitz  
+- Stealth Rock  
+- Earthquake  
+- Shadow Bone  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Happiness: 0  
+EVs: 188 HP / 128 Def / 192 SpD  
+Careful Nature  
+- Curse  
+- Frustration  
+- Rest  
+- Earthquake  
+
 
 Yanmega @ Life Orb  
 Ability: Speed Boost  
