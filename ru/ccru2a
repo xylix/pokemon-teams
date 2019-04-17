@@ -35,14 +35,14 @@ IVs: 0 Atk
 - Ice Beam  
 - Rapid Spin  
 
-Registeel @ Leftovers  
+Metagross @ Custap Berry  
 Ability: Clear Body  
-EVs: 252 HP / 4 Def / 252 SpD  
-Calm Nature  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Adamant Nature  
 - Stealth Rock  
-- Seismic Toss  
-- Toxic  
-- Protect  
+- Meteor Mash  
+- Earthquake  
+- Explosion
 
 Snorlax @ Figy Berry  
 Ability: Gluttony  
